@@ -1,2 +1,2 @@
-# Algorithmics-in-C-
+# Algorithmics-in-Cplusplus
 Algorithmics and C++
