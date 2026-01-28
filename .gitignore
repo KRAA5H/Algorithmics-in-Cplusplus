@@ -1,0 +1,49 @@
+# Compiled object files
+*.o
+*.obj
+*.out
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.app
+*.exe.stackdump
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Miscellaneous
+.DS_Store
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.swp
+*.swo
+*~
+.idea/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
